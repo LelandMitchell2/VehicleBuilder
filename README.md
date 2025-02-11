@@ -12,7 +12,7 @@
   * [Questions](#questions)
 
   ## Installation
-  download the REPO, navigate to the repo in bash, run node index.js
+  download the REPO, navigate to the repo in bash, run npm i, then npm start
 
   ## Usage
   Use to cure boredom
